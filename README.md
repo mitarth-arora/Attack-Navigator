@@ -6,6 +6,8 @@ The Attack Navigator is designed to provide basic navigation and annotation of [
 
 The principal feature of the Navigator is the ability for users to define layers - custom views of the Attack knowledge base - e.g. showing just those techniques for a particular platform or highlighting techniques a specific adversary has been known to use. Layers can be created interactively within the Navigator or generated programmatically and then visualized via the Navigator.
 
+ <img src = "https://user-images.githubusercontent.com/73459839/166417044-40214fcd-2284-4866-88d8-eead53742f78.png" width="750" height="400">
+
 ## Requirements
 
 * [Node.js](https://nodejs.org) version 8 or greater
